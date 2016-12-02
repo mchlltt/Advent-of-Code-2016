@@ -1,4 +1,4 @@
-rawDirections = "C:/users/me4219/advent-of-code-2016/day 2/day2-input.txt"
+rawDirections = "day2-input.txt"
 directions = open(rawDirections).read().splitlines()
 code = []
 keys = []

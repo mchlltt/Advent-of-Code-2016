@@ -6,7 +6,7 @@ directions = []
 locations = ['0,0']
 uniques = []
 
-with open('C:/users/me4219/advent/day1-1input.txt') as file:
+with open('day1-1input.txt') as file:
     data = read_csv(file)
 
 for row in data:

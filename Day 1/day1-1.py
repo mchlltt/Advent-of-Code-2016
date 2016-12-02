@@ -4,7 +4,7 @@ currentLocation = [0, 0]
 currentDirection = 90
 directions = []
 
-with open('C:/users/me4219/advent/day1-1input.txt') as file:
+with open('day1-1input.txt') as file:
     data = read_csv(file)
 
 for row in data:
