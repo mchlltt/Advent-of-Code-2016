@@ -109,4 +109,4 @@ for point in graphIterator:
                     reachable.add(step)
                     processed.add(step)
 
-print('Part Two: ' + str(len(reachable)))
+print('Part Two: ' + str(len(reachable) + 1))
