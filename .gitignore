@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+..gitignore.un~
+.gitignore~
+.idea/workspace.xml
